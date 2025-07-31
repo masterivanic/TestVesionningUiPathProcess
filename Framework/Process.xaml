@@ -95,6 +95,6 @@
         <OutArgument x:TypeArguments="x:String">[sMessage]</OutArgument>
       </ui:InputDialog.Result>
     </ui:InputDialog>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,129.333333333333" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Fatal" Message="[&quot;Error occur added   ezezez&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,129.333333333333" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Fatal" Message="[&quot;Error occur added  feature&quot;]" />
   </Sequence>
 </Activity>
